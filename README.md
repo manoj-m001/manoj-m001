@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A tech savvy guy backend developer</h3>
+<h3 align="center">A tech savvy guy passionate about open source, web dev, and AI.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingem&label=Profile%20views&color=0e75b6&style=flat" alt="beingem" /> </p>
 
