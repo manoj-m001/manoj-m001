@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **mern stack projects**
 
-- 👨‍💻 All of my projects are available at [http://manoj-netizenn.github.io](http://manoj-m001.github.io)
+- 👨‍💻 All of my projects are available at [http://manoj-m001github.io](http://manoj-m001.github.io)
 
 - 💬 Ask me about **nodejs react sql**
 
